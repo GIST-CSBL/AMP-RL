@@ -1,2 +1,2 @@
 # AMP-RL
-Official repository of AMP-RL
+Official repository of the AMP-RL
