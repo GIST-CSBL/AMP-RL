@@ -42,7 +42,10 @@ $ python -m ipykernel install --user --name AMP-RL --display_name "AMP-RL"
 ```
 
 ## License
-The source code in this repository is licensed under the [PolyForm Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0/). See the `LICENSE` file for more information.
+The source code in this repository is licensed under the [PolyForm Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0/).
+
+
+See the `LICENSE` file for more information.
 
 ## Contact
 Juntae Park (nuwana9876@gm.gist.ac.kr)
