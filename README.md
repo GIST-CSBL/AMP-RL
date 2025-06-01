@@ -41,6 +41,8 @@ $ pip install ipykernel
 $ python -m ipykernel install --user --name AMP-RL --display_name "AMP-RL"
 ```
 
+## License
+
 ## Contact
 Juntae Park (nuwana9876@gm.gist.ac.kr)
 
