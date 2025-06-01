@@ -46,6 +46,10 @@ The source code in this repository is licensed under the [PolyForm Noncommercial
 
 See the `LICENSE` file for more information.
 
+The trained model weights and any generated data are licensed under the [CC-BY-NC-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+See the `CC BY-NC-SA 4.0` file for more information.
+
 ## Contact
 Juntae Park (nuwana9876@gm.gist.ac.kr)
 
