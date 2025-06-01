@@ -1,6 +1,6 @@
 # Reinforcement learning with LoRA for targeted antimicrobial peptide design
 ## Abstract
-This section is empty
+This section will be completed after publication.
 
 ## Model weight and data
 [Google drive link](https://drive.google.com/drive/folders/1XlMEKanxb5Tlr0YyN3eEiOPdHtmteCgz?usp=drive_link)
